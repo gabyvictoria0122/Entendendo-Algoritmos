@@ -24,4 +24,4 @@ while tentando:
         print("Você deve ter feito algo errado. Vou sair agora.")
         tentando = False
 
-# Desempenho -> log n -> log 101 -> aproximadamente 30
+# Desempenho/Máximo de etapas -> log n -> log 101 -> aproximadamente 30
